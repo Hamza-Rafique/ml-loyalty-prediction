@@ -23,6 +23,6 @@ This project is a web application designed to predict the loyalty score of relat
 
 ### Clone the Repository
 ```bash
-git clone [<repository-url>](https://github.com/Hamza-Rafique/ml-loyalty-prediction.git)
+git clone https://github.com/Hamza-Rafique/ml-loyalty-prediction.git
 cd loyalty-prediction
 ```
