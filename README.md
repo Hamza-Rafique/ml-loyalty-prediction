@@ -1,7 +1,5 @@
 # Loyalty Prediction Model
 
-![Screenshot 2024-10-03 165730](https://github.com/user-attachments/assets/aa017cb1-471d-4b8c-864d-80044b9bdea6)
-
 ## Project Overview
 This project is a web application designed to predict the loyalty score of relatives based on several input features such as frequency of communication, help in crises, financial support, attendance at events, and sentiment score. The application uses a machine learning model to make predictions and provides an interactive user interface built with React.js.
 
